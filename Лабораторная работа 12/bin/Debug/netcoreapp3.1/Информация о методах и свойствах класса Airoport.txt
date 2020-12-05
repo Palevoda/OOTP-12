@@ -1,0 +1,8 @@
+===>Информация о методах и свойствах класса  Airoport <===
+System.String get_city()
+System.Type GetType()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+Void .ctor(System.String)
+System.String city

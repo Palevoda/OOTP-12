@@ -1,0 +1,3 @@
+===>Основная информация<===
+ Void show(Лабораторная_работа_12.Airoport) 
+ Boolean Equals(System.Object) 

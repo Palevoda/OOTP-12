@@ -1,0 +1,7 @@
+===>Основная информация<===
+ System.String get_city() 
+ Void show(Лабораторная_работа_12.Airoport) 
+ System.Type GetType() 
+ System.String ToString() 
+ Boolean Equals(System.Object) 
+ Int32 GetHashCode() 

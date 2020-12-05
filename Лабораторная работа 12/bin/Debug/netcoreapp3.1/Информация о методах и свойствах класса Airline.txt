@@ -1,0 +1,28 @@
+===>Информация о методах и свойствах класса  Airline <===
+System.DateTime get_Date()
+Void set_Dist(Int32)
+Int32 get_Dist()
+Void set_punct(System.String)
+System.String get_punct()
+Int32 get_FlightNumber()
+Void set_PlaneType(System.String)
+System.String get_PlaneType()
+Void set_DepartureTime(System.String)
+System.String get_DepartureTime()
+Void set_weekDay(System.String)
+System.String get_weekDay()
+Boolean Equals(System.Object)
+System.String ToString()
+Void showObjectInfo()
+System.Type GetType()
+Int32 GetHashCode()
+Void .ctor()
+Void .ctor(System.String, System.String)
+Void .ctor(System.String, UInt16, System.String, System.String, System.String, Int32)
+System.DateTime Date
+Int32 Dist
+System.String punct
+Int32 FlightNumber
+System.String PlaneType
+System.String DepartureTime
+System.String weekDay

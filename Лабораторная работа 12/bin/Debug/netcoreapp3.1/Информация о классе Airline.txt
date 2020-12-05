@@ -1,0 +1,4 @@
+===>Основная информация<===
+Полное имя класса: Лабораторная_работа_12.Airline 
+Информация о сборке: Лабораторная работа 12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+Globally Unique Identifier: cf9f895b-ad27-355b-9fa8-3bd17f9750b1

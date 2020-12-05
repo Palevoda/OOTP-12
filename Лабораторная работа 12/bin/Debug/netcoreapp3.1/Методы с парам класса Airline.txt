@@ -1,0 +1,7 @@
+===>Основная информация<===
+ Void set_Dist(Int32) 
+ Void set_punct(System.String) 
+ Void set_PlaneType(System.String) 
+ Void set_DepartureTime(System.String) 
+ Void set_weekDay(System.String) 
+ Boolean Equals(System.Object) 

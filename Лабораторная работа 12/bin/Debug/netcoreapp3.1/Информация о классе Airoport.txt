@@ -1,0 +1,4 @@
+===>Основная информация<===
+Полное имя класса: Лабораторная_работа_12.Airoport 
+Информация о сборке: Лабораторная работа 12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+Globally Unique Identifier: e81cd830-3a36-3043-8219-361fb4171bcc

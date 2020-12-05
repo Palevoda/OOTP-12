@@ -1,0 +1,4 @@
+===>Основная информация<===
+ Void .ctor() 
+ Void .ctor(System.String, System.String) 
+ Void .ctor(System.String, UInt16, System.String, System.String, System.String, Int32) 

@@ -1,0 +1,13 @@
+D:\PROGRA_2kurs\ООТП\Лабораторная работа 12\Лабораторная работа 12\bin\Debug\netcoreapp3.1\Лабораторная работа 12.exe
+D:\PROGRA_2kurs\ООТП\Лабораторная работа 12\Лабораторная работа 12\bin\Debug\netcoreapp3.1\Лабораторная работа 12.deps.json
+D:\PROGRA_2kurs\ООТП\Лабораторная работа 12\Лабораторная работа 12\bin\Debug\netcoreapp3.1\Лабораторная работа 12.runtimeconfig.json
+D:\PROGRA_2kurs\ООТП\Лабораторная работа 12\Лабораторная работа 12\bin\Debug\netcoreapp3.1\Лабораторная работа 12.runtimeconfig.dev.json
+D:\PROGRA_2kurs\ООТП\Лабораторная работа 12\Лабораторная работа 12\bin\Debug\netcoreapp3.1\Лабораторная работа 12.dll
+D:\PROGRA_2kurs\ООТП\Лабораторная работа 12\Лабораторная работа 12\bin\Debug\netcoreapp3.1\Лабораторная работа 12.pdb
+D:\PROGRA_2kurs\ООТП\Лабораторная работа 12\Лабораторная работа 12\obj\Debug\netcoreapp3.1\Лабораторная работа 12.csprojAssemblyReference.cache
+D:\PROGRA_2kurs\ООТП\Лабораторная работа 12\Лабораторная работа 12\obj\Debug\netcoreapp3.1\Лабораторная работа 12.csproj.CoreCompileInputs.cache
+D:\PROGRA_2kurs\ООТП\Лабораторная работа 12\Лабораторная работа 12\obj\Debug\netcoreapp3.1\Лабораторная работа 12.AssemblyInfoInputs.cache
+D:\PROGRA_2kurs\ООТП\Лабораторная работа 12\Лабораторная работа 12\obj\Debug\netcoreapp3.1\Лабораторная работа 12.AssemblyInfo.cs
+D:\PROGRA_2kurs\ООТП\Лабораторная работа 12\Лабораторная работа 12\obj\Debug\netcoreapp3.1\Лабораторная работа 12.dll
+D:\PROGRA_2kurs\ООТП\Лабораторная работа 12\Лабораторная работа 12\obj\Debug\netcoreapp3.1\Лабораторная работа 12.pdb
+D:\PROGRA_2kurs\ООТП\Лабораторная работа 12\Лабораторная работа 12\obj\Debug\netcoreapp3.1\Лабораторная работа 12.genruntimeconfig.cache
